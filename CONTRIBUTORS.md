@@ -82,6 +82,7 @@ This list is manually curated to include valuable contributions by volunteers th
 | @StaggerLeee | |
 | @jblz | |
 | @nic-bertino | @nicbertino |
+| @ketanumretiya030
 | @rahmon | @rahmohn |
 | @vladanost | |
 | @gziolo | @gziolo |
